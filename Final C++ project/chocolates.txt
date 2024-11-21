@@ -1,0 +1,8 @@
+Milk Chocolate - Plain, 210, 100, $9.20
+Milk Chocolate - Nuts, 250, 50, $5.78
+Milk Chocolate - Fruit, 240, 50, $4.58
+Dark Chocolate - Plain, 200, 100, $5.81
+Dark Chocolate - Nuts, 220, 50, $7.02
+Dark Chocolate - Fruit, 215, 50, $7.64
+White Chocolate, 230, 100, $9.18
+Low Sugar Chocolate, 190, 100, $3.19

@@ -1,0 +1,13 @@
+﻿'Final C++ project.exe' (Win32): Loaded 'C:\Users\DELL\source\repos\Final C++ project\x64\Debug\Final C++ project.exe'. Symbols loaded.
+'Final C++ project.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Final C++ project.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Final C++ project.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Final C++ project.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Final C++ project.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Final C++ project.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'Final C++ project.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x2be8 has exited with code 0 (0x0).
+The thread 0x51f8 has exited with code 3221225786 (0xc000013a).
+The thread 0x6274 has exited with code 3221225786 (0xc000013a).
+The thread 0x1690 has exited with code 3221225547 (0xc000004b).
+The program '[12444] Final C++ project.exe' has exited with code 3221225786 (0xc000013a).
